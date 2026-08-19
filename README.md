@@ -4,8 +4,8 @@ A sleek, responsive pricing table component designed for a luxury-themed SaaS or
 
 ## Screenshot
 
-![Screenshot Desktop](./Screenshot%20Mobile.png)
-![Screenshot Mobile](./Screenshot%20Desktop.png)
+![Screenshot Desktop](./Screenshot%20Desktop.png)
+![Screenshot Mobile](./Screenshot%20Mobile.png)
 
 ## 🚀 Features
 
