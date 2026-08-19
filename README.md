@@ -4,15 +4,15 @@ A sleek, responsive pricing table component designed for a luxury-themed SaaS or
 
 ## Screenshot
 
-- [Screenshot Desktop](./Screenshot%20Desktop.png)
-- [Screenshot Mobile](./Screenshot%20Mobile.png)
+- *[Screenshot Desktop]*(./Screenshot%20Desktop.png)
+- *[Screenshot Mobile]*(./Screenshot%20Mobile.png)
 
 ## 🚀 Features
 
-- *Modern Pricing Cards:* Three distinct tiers (Basic Opal, Platinum Debug, and Diamond Console) with clear price points and descriptions.
-- *Responsive Layout:* Flex/Grid-based structure that adapts seamlessly across mobile and desktop devices.
-- *Tailwind CSS Integration:* Utilizes utility-first classes for rapid styling, custom borders, and typography.
-- *Action-Oriented Design:* Includes clear call-to-action (CTA) button structures.
+- **Modern Pricing Cards:** Three distinct tiers (Basic Opal, Platinum Debug, and Diamond Console) with clear price points and descriptions.
+- **Responsive Layout:** Flex/Grid-based structure that adapts seamlessly across mobile and desktop devices.
+- **Tailwind CSS Integration:** Utilizes utility-first classes for rapid styling, custom borders, and typography.
+- **Action-Oriented Design:** Includes clear call-to-action (CTA) button structures.
 
 ## Links
 
@@ -21,8 +21,8 @@ A sleek, responsive pricing table component designed for a luxury-themed SaaS or
 
 ## 🛠️ Tech Stack
 
-- *Framework/Library:* [HTML5]
-- *Styling:* [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
+- **Framework/Library:** [HTML5]
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 
 Head over to [https://vitejs.dev/] to learn more about configuring vite
 
@@ -32,9 +32,9 @@ This project is one of the Scrimba's course from 'Learn Tailwind CSS' course. I 
 
 ## Author
 
-- GitHub - [Biru Basfore](https://github.com/BiruMJ)
-- Frontend Mentor - [@BiruMJ](https://www.frontendmentor.io/profile/BiruMJ)
-- LinkedIn - [@biru-basfore-8b52262a4](www.linkedin.com/in/biru-basfore-8b52262a4)
+- GitHub - *[Biru Basfore](https://github.com/BiruMJ)*
+- Frontend Mentor - *[@BiruMJ](https://www.frontendmentor.io/profile/BiruMJ)*
+- LinkedIn - *[@biru-basfore-8b52262a4](www.linkedin.com/in/biru-basfore-8b52262a4)*
 
 ## About Scrimba
 
